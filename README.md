@@ -5,7 +5,7 @@
 
 Welcome to the Unity 3D Top-Down Shooter repository! This personal project is an action-packed, 3D top-down shooter game I've developed from the ground up. Get ready for intense battles, thrilling missions, and an immersive gaming experience!
 
-![Game Screenshot](https://imgur.com/a/aqRJvF6)
+![Game Screenshot](Screenshot/TopDownShooter.gif)
 
 ## Features
 
